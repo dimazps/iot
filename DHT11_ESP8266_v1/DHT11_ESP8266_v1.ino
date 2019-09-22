@@ -16,12 +16,12 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-#define wifi_ssid "SINGTEL-FF39"
-#define wifi_password "ootaiseifo"
+#define wifi_ssid "wifiname"
+#define wifi_password "********"
 
-#define mqtt_server "192.168.1.94"
-#define mqtt_user "dimazps"
-#define mqtt_password "Keenan0728"
+#define mqtt_server "192.168.1.*"
+#define mqtt_user "username"
+#define mqtt_password "********"
 
 #define humidity_topic "testing_humidity"
 #define temperature_celsius_topic "testing_temperature_celsius"

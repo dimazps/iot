@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-#define wifi_ssid "SINGTEL-FF39" // put your wifi ID
-#define wifi_password "ootaiseifo" // put your wifi Password
+#define wifi_ssid "*****" // put your wifi ID
+#define wifi_password "*****" // put your wifi Password
  
 int ledPinGreen = 2; // GPIO2---D4 of NodeMCU
 int ledPinRed = 13; // GPIO13---D7 of NodeMCU

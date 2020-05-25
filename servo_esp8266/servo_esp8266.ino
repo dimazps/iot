@@ -1,8 +1,8 @@
 #include <Servo.h>  // Include the Servo library
 #include <ESP8266WiFi.h>
 
-#define wifi_ssid "SINGTEL-FF39" // put your wifi ID
-#define wifi_password "ootaiseifo" // put your wifi Password
+#define wifi_ssid "*******" // put your wifi ID
+#define wifi_password "*******" // put your wifi Password
 #define servoPin 3 // Declare the Servo pin
 
 WiFiServer server(80);
